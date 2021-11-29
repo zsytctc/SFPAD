@@ -47,11 +47,11 @@ investor attention on social media
 3. **Cross verification:** uses results from the 2nd component to verify anomaly detected by the 1st 
 component to see if it characterises as a sentiment-driven pricing
 
-![alt text](images/methodology) 
+![alt text](images/methodology.png) 
 
 ## Results 
 
-![alt text](images/results_detections) 
+![alt text](images/results_detections.png) 
 
 Above table shows the number of times an
 anomaly was successfully signalled between
@@ -65,7 +65,7 @@ significantly outperforms other alternatives at
 making early detection. It is also shown SPAPD is consistent as the
 results are either 0 or 100 out of 100 run.
 
-![alt text](images/results_charts) 
+![alt text](images/results_charts.png) 
 
 It is shown in charts above that all DTW
 (Dynamic Time Wrapping used in clustering)
