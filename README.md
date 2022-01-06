@@ -1,8 +1,8 @@
 # SPAPD
 
 A method for detecting sentiment-driven pricing that combines existing anomaly
-pattern detection methodology with sentiment analysis models. The model is named **Sentiment-driven
-Pricing Anomaly Pattern Detection (SPAPD)**.
+pattern detection methodology with sentiment analysis models. The model is named **Sentiment-driven Firm
+Pricing Anomaly Detection (SFPAD)**.
 
 ## Background
 
@@ -78,7 +78,7 @@ KNN model.
 
 ## Research Implications 
 
-SPAPD is the first known attempt to target
+SFPAD is the first known attempt to target
 sentiment-driven pricing using anomaly pattern
 detection method and sentiment analysis. Results
 from the study shows it is possible to treat
