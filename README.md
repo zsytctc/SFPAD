@@ -38,7 +38,7 @@ pricing and minimise the negative impacts.
 
 ## Methodology 
 
-SPAPD is made up of three components, namely:
+SFPAD is made up of three components, namely:
 
 1. **Anomaly pattern detection model:** an anomaly pattern detection model based on
 the proposed method of APD-HT by Kim and Park (2020)
