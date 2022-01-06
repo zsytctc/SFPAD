@@ -1,4 +1,4 @@
-# SPAPD
+# SFPAD
 
 A method for detecting sentiment-driven pricing that combines existing anomaly
 pattern detection methodology with sentiment analysis models. The model is named **Sentiment-driven Firm
