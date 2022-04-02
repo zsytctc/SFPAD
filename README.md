@@ -55,15 +55,14 @@ component to see if it characterises as a sentiment-driven pricing
 
 Above table shows the number of times an
 anomaly was successfully signalled between
-01/01/2021 and 21/01/2021, which are
+01/01/2021 and 25/01/2021, which are
 considered to be the preliminary phase of the
 GameStop Short Squeeze, as investor
 attention gradually accumulated during this
 period but share price has yet burst out of
 control. It is shown that SPAPD using return as input
 significantly outperforms other alternatives at
-making early detection. It is also shown SPAPD is consistent as the
-results are either 0 or 100 out of 100 run.
+making early detection. 
 
 ![alt text](https://github.com/zsytctc/SFPAD/blob/main/images/results_charts.PNG) 
 
